@@ -86,17 +86,3 @@ The target variable is **annual\_premium\_usd**.
    streamlit run app.py
    ```
 
----
-
-## Future Improvements
-
-* Test deep learning models for better accuracy
-* Add more real-world insurance data
-* Improve the Streamlit interface with charts and explanations
-* Deploy on cloud platforms (AWS, GCP, or Heroku) for public access
-
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Please fork the repository and submit a pull request.
-
